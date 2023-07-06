@@ -1,1 +1,2 @@
-#!/bin/batelnet towel.blnkenlights.nl
+#!/bin/bash
+telnet towel.blnkenlights.nl
